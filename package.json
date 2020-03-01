@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "name": "twentynineteen-gatsby-theme",
+  "version": "1.0.0",
+  "workspaces": [
+    "site",
+    "packages/*"
+  ],
+  "scripts": {
+    "develop": "yarn workspace site develop",
+    "build": "yarn workspace site build",
+    "start": "yarn workspace site start"
+  }
+}
