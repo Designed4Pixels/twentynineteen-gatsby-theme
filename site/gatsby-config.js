@@ -3,13 +3,13 @@ module.exports = {
     title: `Twenty Nineteen Starter`,
     description: `Gatsby starter site for Twenty Nineteen Gatsby Theme.`,
     author: `@muhsinlk`,
-    wordPressUrl: `headless-app-7777.com`
+    wordPressUrl: `wpcs.proteus-systems.co.uk`
   },
   __experimentalThemes: [
     {
       resolve: "gatsby-theme-twentynineteen",
       options: {
-        wordPressUrl: `headless-app-7777.com`
+        wordPressUrl: `wpcs.proteus-systems.co.uk`
       }
     }
   ]
